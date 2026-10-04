@@ -1,4 +1,4 @@
-# Road signs detection and recognition
+# SignSense
 
 ## Description
 This repository is related to the project for the [Machine Learning](https://www.dmi.unict.it/farinella/ML/) course, which was held at the Department of Mathematics and Computer Science of the University of Catania by prof. Giovanni Maria Farinella.  
